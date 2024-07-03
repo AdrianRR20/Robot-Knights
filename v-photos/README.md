@@ -1,4 +1,6 @@
-Vehicle's photos
-====
-
-This directory must contain 6 photos of the vehicle (from every side, from top and bottom)
+![image](https://github.com/AdrianRR20/Robot-Knights/assets/174557020/7557289e-495a-4a75-a333-d7218784618e)
+![image](https://github.com/AdrianRR20/Robot-Knights/assets/174557020/4c3437b6-4fcd-4e9d-8765-ebdf62be6719)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
