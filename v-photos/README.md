@@ -1,9 +1,9 @@
 Vehicle's photos
 ====
 
-![back](https://github.com/user-attachments/assets/f2a885d1-62bc-4cc5-a159-2ea43e32dd88)
-![down](https://github.com/user-attachments/assets/3474f014-405b-4aa3-be7c-91688e9ce3b9)
-![up](https://github.com/user-attachments/assets/f4a30f74-18df-4dde-8746-a23bd54168b2)
-![Right](https://github.com/user-attachments/assets/a858919f-b4f2-463d-a194-4bcd516075e9)
-![Left](https://github.com/user-attachments/assets/519efe77-622c-4805-b103-5655d01dee47)
-![Front](https://github.com/user-attachments/assets/a62aa5b3-48d6-4fff-9a43-6d304de3369d)
+![Upside](https://github.com/user-attachments/assets/4c6121e0-29f7-4c0f-8dc0-6f26728e59fa)
+![R Side](https://github.com/user-attachments/assets/a573a605-d2fa-465d-b05b-09bd834afcc6)
+![L Side](https://github.com/user-attachments/assets/b3f0586c-32e1-4075-92c8-f2dfbd485a82)
+![Front](https://github.com/user-attachments/assets/e68a5a7c-3e83-4a20-9422-c8aeb013524d)
+![Downside](https://github.com/user-attachments/assets/3a8eb8fe-256f-48d4-9a69-6964307d44d6)
+![Back](https://github.com/user-attachments/assets/427c104a-abd8-448a-97fb-9470e8d28daa)
