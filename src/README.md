@@ -1,5 +1,8 @@
 Control software
 ====
 
-![image](https://github.com/user-attachments/assets/179c6df8-898c-4781-bd0c-e824b4ff88f1)
-![image](https://github.com/user-attachments/assets/881af80a-6b86-4b13-968d-c79ba68affc5)
+Round 1
+![image](https://github.com/user-attachments/assets/e40b8c17-3b01-48d0-b7df-4c3db861eebb)
+![image](https://github.com/user-attachments/assets/6033c404-8160-4415-aa2d-0b420b535d88)
+
+Round 2
