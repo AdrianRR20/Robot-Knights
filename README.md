@@ -72,3 +72,5 @@ The motors and sensors we used for our robot were:
 5. Color sensors: Detect the color of the obstacles in order to dodge to the left or right.
 
 6. Gyroscope: Calculates the robot's rotation degrees to park itself independently.
+
+![image](https://github.com/user-attachments/assets/7bf6b790-8e13-4088-a447-a85a781107b4)
