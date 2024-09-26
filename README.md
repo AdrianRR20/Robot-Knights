@@ -1,7 +1,7 @@
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
 
 ## Content
 
@@ -56,5 +56,19 @@ Wi-Fi: Supports USB Wi-Fi adapters for wireless connectivity.
 
 9. Compatibility: Can be programmed using various programming environments such as EV3-G (official LEGO software), Python, and other languages.
 
+![image](https://github.com/user-attachments/assets/2a1b52fb-022d-4902-8b60-de1180ad1ced)
 
-Translated with DeepL.com (free version)
+The motors and sensors we used for our robot were:
+
+
+1. Servomotor Ev3 (A): In charge of directing the movement of the robot in clockwise or counterclockwise directions.
+
+2. Servomotor Ev3 (B): It allows the robot to advance in the direction of the motor A.
+
+3. Large motor NXT: It performs the radar function by connecting to the ultrasonic and color sensors that search for and identify obstacles.
+
+4. Ultrasonic sensor: Measures the distance in centimeters to the obstacle in front of it.
+
+5. Color sensors: Detect the color of the obstacles in order to dodge to the left or right.
+
+6. Gyroscope: Calculates the robot's rotation degrees to park itself independently.
