@@ -15,12 +15,46 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+“Knight” the robot of our team is conformed by a brick ev3 with the following characteristics:
+1. processor: it has an ARM9 processor at 300 MHz.
 
-## How to prepare the repo based on the template
 
-_Remove this section before the first commit to the repository_
+2. Display: A monochromatic LCD screen of 178x128 pixels.
 
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+
+3. Navigation buttons: 6 buttons (up, down, left, right, center, center, and “back”) to navigate through the menu.
+
+
+4. Memory: 16 MB of internal flash memory and 64 MB of RAM. It also has a microSD card slot up to 32 GB for memory expansion.
+
+
+5. Connectivity:
+
+USB: A standard USB port for connecting peripherals, such as keyboards or Wi-Fi dongles.
+
+Mini-USB port: For connecting to a computer and transferring programs.
+
+Bluetooth: For wireless communication with other devices.
+
+Wi-Fi: Supports USB Wi-Fi adapters for wireless connectivity.
+
+
+
+6. Motor and sensor ports:
+
+4 ports for motors (A, B, C, D).
+
+4 ports for sensors (1, 2, 3, 4).
+
+
+
+7. Power: Powered by 6 AA batteries or a rechargeable lithium-ion battery.
+
+
+8. Loudspeaker: Integrated, allows to play sounds and music.
+
+
+9. Compatibility: Can be programmed using various programming environments such as EV3-G (official LEGO software), Python, and other languages.
+
+
+Translated with DeepL.com (free version)
