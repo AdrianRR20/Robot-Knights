@@ -1,4 +1,4 @@
-#RobotKnights Team
+# Team Photos
 
 Presentation photo
 ![Normal photo](https://github.com/user-attachments/assets/83dd53b8-379a-4bfe-adba-1ee8b0def87e)
