@@ -10,7 +10,7 @@
 
 # NXT Motor
 
-<img width="814" height="389" alt="image" src="https://github.com/user-attachments/assets/02c8ee79-33e5-4e02-ae65-80258c6962bd" />
+<img width="508" height="459" alt="image" src="https://github.com/user-attachments/assets/94da4bd0-4014-4b9e-aa7b-331508989964" />
 
 # Gyroscope
 
