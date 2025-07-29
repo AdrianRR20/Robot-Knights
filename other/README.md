@@ -22,7 +22,7 @@ We use motors from both the NXT and the EV3 line to achieve smooth and precise m
 
 "NXT motor"
 
-<img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/6adcc1bb-f975-47a2-a5ac-51daa6717828" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/014a7c60-be14-49de-ade1-775c9cc1d40f" />
 
 "Ev3 motor"
 
