@@ -18,6 +18,7 @@ We use a LEGO EV3 “brain,” which we could describe as a small computer progr
 
 <img width="896" height="800" alt="image" src="https://github.com/user-attachments/assets/1a33953e-efc0-4288-b965-997ede1aa699" />
 
+
 We use motors from both the NXT and the EV3 line to achieve smooth and precise movement.
 
 "NXT motor"
@@ -27,6 +28,7 @@ We use motors from both the NXT and the EV3 line to achieve smooth and precise m
 "Ev3 motor"
 
 <img width="715" height="715" alt="image" src="https://github.com/user-attachments/assets/e0239e3c-916c-476d-9d87-fd9d138d50e3" />
+
 
 Regarding sensors, we use three: a gyroscope, which allows us to finish the rounds at the same spot where the robot started; an ultrasonic sensor, which detects how far away an obstacle is from the robot; and a set of color sensors that interpret the color of the obstacles based on the light reflected from them, so the robot can dodge in the correct direction.
 
@@ -41,6 +43,7 @@ Regarding sensors, we use three: a gyroscope, which allows us to finish the roun
 "Sensor de color"
 
 <img width="1000" height="853" alt="image" src="https://github.com/user-attachments/assets/a2654812-029a-4f7b-ac83-2537c8b44811" />
+
 
 Our cables are the models 45514 for connecting every motor and sensor
 
