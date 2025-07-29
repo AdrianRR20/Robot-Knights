@@ -47,3 +47,4 @@ Our cables are the models 45514 for connecting every motor and sensor
 "Cable"
 
 <img width="894" height="894" alt="image" src="https://github.com/user-attachments/assets/e5640280-6bf3-4218-bc2a-a0cba86f7fcf" />
+
