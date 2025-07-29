@@ -15,28 +15,35 @@ This is the name of our robot. Its operation is based on circular movement acros
 We use a LEGO EV3 “brain,” which we could describe as a small computer programmed to interpret data sent from sensors and motors, and also to send signals back to them to perform various actions.
 
 "Ev3 Brick"
+
 <img width="896" height="800" alt="image" src="https://github.com/user-attachments/assets/1a33953e-efc0-4288-b965-997ede1aa699" />
 
 We use motors from both the NXT and the EV3 line to achieve smooth and precise movement.
 
 "NXT motor"
+
 <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/6adcc1bb-f975-47a2-a5ac-51daa6717828" />
 
 "Ev3 motor"
+
 <img width="715" height="715" alt="image" src="https://github.com/user-attachments/assets/e0239e3c-916c-476d-9d87-fd9d138d50e3" />
 
 Regarding sensors, we use three: a gyroscope, which allows us to finish the rounds at the same spot where the robot started; an ultrasonic sensor, which detects how far away an obstacle is from the robot; and a set of color sensors that interpret the color of the obstacles based on the light reflected from them, so the robot can dodge in the correct direction.
 
 "Gyroscope"
+
 <img width="699" height="367" alt="image" src="https://github.com/user-attachments/assets/e3db565d-37e4-4126-aa46-188fb6794783" />
 
 "Ultrasónico"
+
 <img width="972" height="597" alt="image" src="https://github.com/user-attachments/assets/3db23753-5fde-4d11-85d8-6de7195d5e1f" />
 
 "Sensor de color"
+
 <img width="1000" height="853" alt="image" src="https://github.com/user-attachments/assets/a2654812-029a-4f7b-ac83-2537c8b44811" />
 
 Our cables are the models 45514 for connecting every motor and sensor
 
 "Cable"
+
 <img width="894" height="894" alt="image" src="https://github.com/user-attachments/assets/e5640280-6bf3-4218-bc2a-a0cba86f7fcf" />
