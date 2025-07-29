@@ -36,18 +36,18 @@ Regarding sensors, we use three: a gyroscope, which allows us to finish the roun
 
 <img width="699" height="367" alt="image" src="https://github.com/user-attachments/assets/e3db565d-37e4-4126-aa46-188fb6794783" />
 
-"Ultrasónico"
+"Ultrasonic"
 
 <img width="972" height="597" alt="image" src="https://github.com/user-attachments/assets/3db23753-5fde-4d11-85d8-6de7195d5e1f" />
 
-"Sensor de color"
+"Color Sensor"
 
 <img width="1000" height="853" alt="image" src="https://github.com/user-attachments/assets/a2654812-029a-4f7b-ac83-2537c8b44811" />
 
 
 Our cables are the models 45514 for connecting every motor and sensor
 
-"Cable"
+"Cables"
 
 <img width="894" height="894" alt="image" src="https://github.com/user-attachments/assets/e5640280-6bf3-4218-bc2a-a0cba86f7fcf" />
 
